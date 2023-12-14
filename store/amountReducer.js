@@ -12,3 +12,4 @@ export const amountReducer = createSlice({
 
 export const { sendamount } = amountReducer.actions;
 export default amountReducer.reducer;
+ 
